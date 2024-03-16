@@ -4,7 +4,7 @@
     background-color: aliceblue;
 }
 
-h1{
+#flag{
     width: 250px;
      margin: 40px auto; 
     text-transform: uppercase;
@@ -38,4 +38,12 @@ background-position: center;
     width: 350px;
     background-color:green;
 }
+#name{
 
+    color: red;
+    height: 200px;
+    width: 650px;
+    margin-top: 200px;
+    margin-left: 1100px;
+
+}
