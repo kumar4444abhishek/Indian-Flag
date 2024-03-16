@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+h1{
+    width: 250px;
+     margin: 40px auto; 
+    text-transform: uppercase;
+    color: #ff671f;
+}
+#container{
+    width: 350px;
+    margin:0 auto;
+}
+
+#orange{
+    height: 40px;
+    width: 350px;
+    background-color: #ff671f;
+}
+#white{
+    height: 40px;
+    width: 350px;
+    /* property related to background image of chakra  */
+ background-color: white;
+background-image: url(chakra2.jpeg);
+background-repeat: no-repeat;
+background-size: 38px 38px;
+background-position: center;
+
+}
+
+
+#green{
+    height: 40px;
+    width: 350px;
+    background-color:green;
+}
+
